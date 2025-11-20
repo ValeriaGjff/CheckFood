@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckFood</string>
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="about_app">Сведения о приложении</string>
+    <string name="choose_language">Выберите язык</string>
+</resources>

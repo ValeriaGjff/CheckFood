@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#EBFFEE</color>
+    <color name="cf_bg">#FFFFFF</color>
+    <color name="cf_text">#3E5250</color>
+    <color name="cf_text_subtle">#859391</color>
+
+    <color name="cf_green">#5DB583</color>
+    <color name="cf_green_light">#E8F5E9</color>
+    <color name="cf_green_stroke">#5DB583</color>
+
+    <color name="cf_orange">#D9822B</color>
+    <color name="cf_orange_light">#FFF3E0</color>
+    <color name="cf_orange_stroke">#FFB74D</color>
+
+    <color name="cf_card_stroke">#5DB583</color>
+    <color name="cf_card_bg">#F7FBF9</color>
+</resources>
